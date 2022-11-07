@@ -6,4 +6,4 @@ Here are few recent blog posts:
 - [Local GitHub repository backups with Python](https://markb.uk/local-github-repository-backup-with-python.html)
 - [Handling errors with specific error types and C# pattern matching](https://markb.uk/csharp-pattern-matching-with-specific-error-types.html)
 
-If you have any questions or ideas you'd like to chat about, please get in touch <a rel="me" href="https://mastodon.social/@markeebee">@markeebee</a> or send me an email ([details here](https://markb.uk/).
+If you have any questions or ideas you'd like to chat about, please get in touch <a rel="me" href="https://mastodon.social/@markeebee">@markeebee</a> or send me an email ([details here](https://markb.uk/)).
